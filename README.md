@@ -154,7 +154,7 @@ Enable **Schedule Start** and/or **End** to run automation at specific times.
 
 ## 📄 License
 
-**scroll.ly** © 2024
+**scroll.ly by shyee** © 2025
 All rights reserved.
 
 ---
